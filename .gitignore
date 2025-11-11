@@ -16,3 +16,4 @@ pip-delete-this-directory.txt
 # Generated site
 public/
 
+static/tolkien.png:*
