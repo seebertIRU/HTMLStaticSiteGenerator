@@ -17,3 +17,5 @@ pip-delete-this-directory.txt
 public/
 
 static/tolkien.png:*
+static/tolkien.png:com.dropbox.attrs
+static/tolkien.png:Zone.Identifier
