@@ -14,8 +14,6 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Generated site
-public/
-
 static/tolkien.png:*
 static/tolkien.png:com.dropbox.attrs
 static/tolkien.png:Zone.Identifier
